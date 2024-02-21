@@ -1,4 +1,4 @@
-package com.awesomeproject
+package com.Zapp
 
 import android.app.Application
 import com.facebook.react.PackageList
